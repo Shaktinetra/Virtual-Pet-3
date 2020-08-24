@@ -6,11 +6,11 @@ var food, foodStock, foodObj;
 var fedTime, lastFed, currentTime
 
 function preload() {
-  dogImg = loadImage("images/dogImg.png");
-  happyDogImg = loadImage("images/dogImg1.png");
-  bedroomImg = loadImage("images/Bed Room.png");
-  gardenImg = loadImage("images/Garden.png");
-  restroomImg = loadImage("images/Wash Room.png");
+  dogImg = loadImage("dogImg.png");
+  happyDogImg = loadImage("dogImg1.png");
+  bedroomImg = loadImage("Bed Room.png");
+  gardenImg = loadImage("Garden.png");
+  restroomImg = loadImage("Wash Room.png");
 }
 
 function setup() {
